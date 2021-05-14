@@ -3,7 +3,7 @@ templateKey: index-page
 title: Romblon Institute of Technology
 image: /img/building.jpg
 heading: Skilling Romblon thru quality TVET Delivery for Peoples Prosperity.
-subheading: Support sustainable farming while enjoying a cup
+subheading: Skilling Romblon thru quality TVET Delivery for Peoples Prosperity.
 mainpitch:
   title: Why Kaldi
   description: >
